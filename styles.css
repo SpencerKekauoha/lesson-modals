@@ -1,0 +1,20 @@
+.image-modal {
+  height: 20vh;
+  margin-top: 10vh;
+}
+
+.flex {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+
+
+.flex img {
+  height: 60vh;
+}
+
+.flex p {
+  text-align: center;
+}
