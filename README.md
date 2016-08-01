@@ -55,9 +55,9 @@ Note: your trigger, in this case is a button, will activate your modal on click.
 To activate a modal on click of an img for example, data-toggle and data-target from the trigger needs to be included
 in your img tag
 
-<img src='something.jpg'   data-toggle="modal" data-target="#myModal"     />
+<!--<img src='something.jpg'   data-toggle="modal" data-target="#myModal"     />-->
 
-<div data-toggle="modal" data-target="#myModal" > Content </div>
+<!--<div data-toggle="modal" data-target="#myModal" > Content </div>-->
 
 
 
