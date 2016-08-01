@@ -2,6 +2,8 @@
 
 Modals
 
+http://v4-alpha.getbootstrap.com/components/modal/
+
 For this lesson, we will learn how to use a bootstrap modal in your project.
 
 Step 1:
