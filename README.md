@@ -2,8 +2,11 @@
 
 Modals
 
+<<<<<<< HEAD
 http://v4-alpha.getbootstrap.com/components/modal/
 
+=======
+>>>>>>> 9cdd4e09c5cade4ee5cc101622884a0000a83b1d
 For this lesson, we will learn how to use a bootstrap modal in your project.
 
 Step 1:
@@ -57,6 +60,15 @@ Note: your trigger, in this case is a button, will activate your modal on click.
 To activate a modal on click of an img for example, data-toggle and data-target from the trigger needs to be included
 in your img tag
 
+<<<<<<< HEAD
 <img src='something.jpg'   data-toggle="modal" data-target="#myModal"     />
 
 <div data-toggle="modal" data-target="#myModal" > Content </div>
+=======
+<!--<img src='something.jpg'   data-toggle="modal" data-target="#myModal"     />-->
+
+<!--<div data-toggle="modal" data-target="#myModal" > Content </div>-->
+
+
+
+>>>>>>> 9cdd4e09c5cade4ee5cc101622884a0000a83b1d
